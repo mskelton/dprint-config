@@ -1,0 +1,26 @@
+{
+  "lineWidth": 80,
+  "typescript": {
+    "locked": true,
+    "semiColons": "asi",
+    "quoteStyle": "preferDouble",
+    "arrowFunction.useParentheses": "force",
+    "enumDeclaration.memberSpacing": "blankLine"
+  },
+  "json": {
+    "locked": true,
+    "indentWidth": 2,
+    "associations": [
+      "**/*.{json,jsonc}",
+      ".eslintrc",
+      ".prettierrc"
+    ]
+  },
+  "markdown": {
+    "locked": true,
+    "textWrap": "always",
+    "associations": [
+      "**/*.md"
+    ]
+  }
+}
